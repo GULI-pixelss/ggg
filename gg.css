@@ -150,6 +150,8 @@ margin-left: 750px;
 margin-top: 30px;
 width: 180px;
 padding-bottom: 40px;
+background-color: #0b1ae9;
+color: #ffffff;
 
 }
 .btt{
@@ -165,7 +167,7 @@ cursor: text;
 margin-left: 40px;
 margin-top: 30px;
 width: 180px;
-background-color: #0b1ae9;
+background-color: #ffffff;
 padding-bottom: 40px;
 text-align: center;
 }
@@ -175,7 +177,7 @@ text-align: center;
   align-items: center;
 }
 .w{
-     box-shadow: 5px 5px 5px 5px;
+     box-shadow: 1px 1px 1px 1px;
     justify-content: center;
 height: 40px;
 border-radius: 7px;
@@ -194,7 +196,7 @@ text-align: center;
 
 }
 .c{
-    box-shadow: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 1px;
     justify-content: center;
 height: 40px;
 border-radius: 7px;
@@ -212,7 +214,7 @@ padding-bottom: 40px;
 text-align: center;
 }
 .co{
-     box-shadow: 5px 5px 5px 5px;
+     box-shadow: 1px 1px 1px;
     justify-content: center;
 height: 40px;
 border-radius: 7px;
